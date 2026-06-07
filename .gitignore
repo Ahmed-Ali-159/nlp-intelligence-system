@@ -1,6 +1,8 @@
 .venv/
-data/raw/
-data/processed/
+# data/raw/
+# data/processed/
+data/raw/*.csv
+data/processed/*.csv
 mlruns/
 *.pkl
 *.joblib
